@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Belirli Package">
+    <test name="İstenen Package">
+        <packages>
+            <package name="tests.Day15_SoftAsser"></package>
+
+        </packages>
+
+    </test>
+</suite>
