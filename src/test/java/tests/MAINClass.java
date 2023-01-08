@@ -1,6 +1,15 @@
 package tests;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebElement;
+import org.testng.annotations.Test;
+import utilities.Driver;
+
+import java.util.List;
+
 public class MAINClass {
+
 
     /*
     Arkadaşlar birer class açıp orada test kodlarımzı yaza biliriz,
@@ -24,5 +33,6 @@ public class MAINClass {
     //hepsiburada daki en yüksek fiyatlı tobleron; ceyda = ?
     //n11'deki daki en yüksek fiyatlı tobleron; buşra = ?
     //çiçek sepeti daki en yüksek fiyatlı tobleron; seda = ?
+
 
 }
