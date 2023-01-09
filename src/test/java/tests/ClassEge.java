@@ -37,6 +37,7 @@ public class ClassEge {
         }
         System.out.println("");
         System.out.println("En yuksek urun fiyati : " + enYuksekFiyatDoub);
+        System.out.println("Güncelleme");
 
         Driver.closeDriver();
     }
