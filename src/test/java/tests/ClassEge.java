@@ -8,12 +8,11 @@ import utilities.Driver;
 
 import java.util.List;
 
-public class ClassEgeTrendyol {
+public class ClassEge {
     @Test
     public void testEge(){
 
         Driver.getDriver().get("https://www.trendyol.com");
-
         WebElement aramaKutusu= Driver.getDriver().findElement(By.className("vQI670rJ"));
         aramaKutusu.sendKeys("nutella"+ Keys.ENTER);
 
@@ -22,7 +21,6 @@ public class ClassEgeTrendyol {
         System.out.println(fiyatListesi+" : ");
 
         for (WebElement each: fiyatListesi) {
-
             System.out.println(each.getText().replace("TL", "").replace(" ","").replace(",","."));
         }
         String fiyatStr;
