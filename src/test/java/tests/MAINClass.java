@@ -26,7 +26,7 @@ public class MAINClass {
     //trendyol daki en yüksek fiyatlı nutella; ege = 755 Tl
     //amazon.tr daki en yüksek fiyatlı nutella; safa = ?
     //hepsiburada daki en yüksek fiyatlı nutella; hakan = ?
-    //n11'deki daki en yüksek fiyatlı nutella; yaşar = ?
+    //n11'deki daki en yüksek fiyatlı nutella; yaşar = 7.00 $
     //çiçek sepeti daki en yüksek fiyatlı nutella; oğuz = ?
     //trendyol daki en yüksek fiyatlı tobleron; sevgi= ?
     //amazon.tr daki en yüksek fiyatlı tobleron; duygu = ?
