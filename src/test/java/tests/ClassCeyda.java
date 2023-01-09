@@ -7,6 +7,6 @@ public class ClassCeyda {
     @Test
     public void testCeyda(){
         System.out.println("Hello World");
-
+        System.out.println("Son Güncelleme");
     }
 }
